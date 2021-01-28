@@ -14,11 +14,9 @@ export default function Home() {
           Henrik us building something new
         </h1>
 
-
         <p className={styles.description}>
           Come back soon
         </p>
-
       </main>
     </div>
   )
